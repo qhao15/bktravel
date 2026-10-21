@@ -1,0 +1,442 @@
+[
+  {
+    "startLocation": {
+      "description": "Ha Noi, VN",
+      "type": "Point",
+      "coordinates": [105.850715, 21.028524],
+      "address": "So 31 Hang Phen - Hoan Kiem - Ha Noi - VN"
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "images": ["phuquoc-1.jpg", "phuquoc-2.jpg", "phuquoc-3.jpg"],
+    "startDates": [
+      "2021-06-19T09:00:00.000Z",
+      "2021-07-20T09:00:00.000Z",
+      "2021-08-18T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2955",
+    "name": "Explore Phu Quoc",
+    "duration": 4,
+    "maxGroupSize": 15,
+    "difficulty": "medium",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f4e2f8fb814b56fa185"],
+    "price": 4700000,
+    "summary": "East Island Coast - Coral reef diving - Hon Thom cable car - Night squid fishing.",
+    "description": "First, I should mention the beauty of the beaches with a very wild, rustic, and simple scenery that captivates people, making them deeply immersed in the untamed beauty, almost to the point of obsession. Then, there are interesting places here such as Suoi Tranh, Ham Ninh fishing village, Dinh Cau, Ganh Dau Cape, Ho Quoc Pagoda, Phu Quoc Prison, bee farm, and more. It can be said that all these places have a very familiar and friendly charm that captures people's hearts from the first step. We also had the chance to visit Safari Phu Quoc, the first wild animal park in Vietnam, a unique wildlife exploration destination that opens up an extremely new world before our eyes – a world so new that we wanted to explore it immediately upon encountering it, and of course, when leaving, the lingering attachment made us never want to leave.",
+    "imageCover": "phuquoc-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2959",
+        "description": "Phu Quoc airport - Ham Ninh fishing village - Pepper farm - Phu Quoc night market",
+        "type": "Point",
+        "coordinates": [103.988044, 10.215309],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2959",
+        "description": "Exploring the most beautiful island of Phu Quoc - Coral reef diving - Hon Thom cable car ",
+        "type": "Point",
+        "coordinates": [103.988044, 10.215309],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2959",
+        "description": "Tour the southern part of the island - Southern island coral reef diving - Night squid fishing",
+        "type": "Point",
+        "coordinates": [103.988044, 10.215309],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2959",
+        "description": "Self-guided - return",
+        "type": "Point",
+        "coordinates": [103.988044, 10.215309],
+        "day": 4
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Ha Noi, VN",
+      "type": "Point",
+      "coordinates": [105.850715, 21.028524],
+      "address": "So 31 Hang Phen - Hoan Kiem - Ha Noi - VN"
+    },
+    "ratingsAverage": 5,
+    "ratingsQuantity": 9,
+    "images": ["halong-1.jpg", "halong-2.jpg", "halong-3.jpg"],
+    "startDates": [
+      "2021-06-19T09:00:00.000Z",
+      "2021-07-20T09:00:00.000Z",
+      "2021-08-18T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2951",
+    "name": "Explore Ha Long",
+    "duration": 1,
+    "maxGroupSize": 15,
+    "difficulty": "easy",
+    "guides": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a201e2f8fb814b56fa186",
+      "5c8a1f292f8fb814b56fa184"
+    ],
+    "price": 397,
+    "summary": "Explore the largest cave in Halong Bay and admire hundreds of limestone islands.",
+    "description": "In addition to visiting and exploring the largest caves in Halong Bay, visitors will have the opportunity to admire hundreds of limestone islands, each with a distinct and vivid formation, such as the Human Head Islet, Dragon Islet, La Vong Islet, Sail Islet, Fighting Cock Islet, and Incense Burner Islet. These formations resemble natural castles, creating a truly otherworldly landscape.",
+    "imageCover": "halong-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2959",
+        "description": "Thiên Cung Cave - Ba Hang Fishing Village",
+        "type": "Point",
+        "coordinates": [103.988044, 10.215309],
+        "day": 1
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Ha Noi, VN",
+      "type": "Point",
+      "coordinates": [105.850715, 21.028524],
+      "address": "So 31 Hang Phen - Hoan Kiem - Ha Noi - VN"
+    },
+    "ratingsAverage": 4.5,
+    "ratingsQuantity": 6,
+    "images": ["codohue-1.jpg", "codohue-2.jpg", "codohue-3.jpg"],
+    "startDates": [
+      "2022-01-05T10:00:00.000Z",
+      "2022-02-12T10:00:00.000Z",
+      "2023-01-06T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c295a",
+    "name": "Tour of the Ancient Capital of Hue",
+    "duration": 4,
+    "maxGroupSize": 10,
+    "difficulty": "difficult",
+    "guides": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a1f4e2f8fb814b56fa185"
+    ],
+    "price": 997,
+    "summary": "Explore the historical relics of the Nguyen Dynasty, the last feudal dynasty in Vietnamese history.",
+    "description": "Mentioning Hue brings to mind the ancient citadels of feudal kings, the serene natural landscape, and the gentle beauty of the local people. In Hue, there are numerous attractions to visit, from revered ancient pagodas like Thien Lam Pagoda and Tu Dam Pagoda, to ancient architectural marvels such as the Imperial City of Hue, the tomb of Tu Duc, the tomb of Minh Mang, and even beautiful beaches with white sands and turquoise waters like Lang Co Beach and Canh Duong Beach.",
+    "imageCover": "codohue-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c295c",
+        "description": "Phu Bai Airport - Explore the Imperial City of Hue",
+        "type": "Point",
+        "coordinates": [103.988044, 10.215309],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295b",
+        "description": "Visiting the Hue Imperial City - Forbidden Purple City",
+        "type": "Point",
+        "coordinates": [103.988044, 10.215309],
+        "day": 2
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Ha Noi, VN",
+      "type": "Point",
+      "coordinates": [105.850715, 21.028524],
+      "address": "So 31 Hang Phen - Hoan Kiem - Ha Noi - VN"
+    },
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 7,
+    "images": ["thanglong-1.jpg", "thanglong-2.jpg", "thanglong-3.jpg"],
+    "startDates": [
+      "2021-08-05T09:00:00.000Z",
+      "2022-03-20T10:00:00.000Z",
+      "2022-08-12T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2961",
+    "name": "Thăng Long Imperial Citadel Tour",
+    "duration": 7,
+    "maxGroupSize": 15,
+    "difficulty": "medium",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a201e2f8fb814b56fa186"
+    ],
+    "price": 1497,
+    "summary": "Explore the complex of historical relics associated with the formation and development of Hanoi, featuring many iconic architectural landmarks of the capital city.",
+    "description": "This tourist destination in Vietnam is always a must-visit when traveling to Hanoi, showcasing the unique 'triple gateways' architecture. It not only holds historical value with a series of valuable archaeological excavation sites, but also demonstrates a closely interconnected architectural ensemble, representing significant feudal periods of Vietnam such as the Ly, Tran, Le, and Mac dynasties. It is considered a rare and enduring heritage site with continuous historical significance.",
+    "imageCover": "thanglong-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2965",
+        "description": "Arranging for a tourist car to pick up - Visiting Đoan Môn Gate - Temple of Literature-Imperial Academy",
+        "type": "Point",
+        "coordinates": [103.988044, 10.215309],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2964",
+        "description": "Visiting Hanoi Flag Tower - Cua Bac - Pick up and return by car",
+        "type": "Point",
+        "coordinates": [103.988044, 10.215309],
+        "day": 4
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Ha Noi, VN",
+      "type": "Point",
+      "coordinates": [105.850715, 21.028524],
+      "address": "So 31 Hang Phen - Hoan Kiem - Ha Noi - VN"
+    },
+    "ratingsAverage": 4.6,
+    "ratingsQuantity": 5,
+    "images": ["sondoong-1.jpg", "sondoong-2.jpg", "sondoong-3.jpg"],
+    "startDates": [
+      "2021-03-11T10:00:00.000Z",
+      "2021-05-02T09:00:00.000Z",
+      "2021-06-09T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c295d",
+    "name": "Son Doong Cave Exploration",
+    "duration": 5,
+    "maxGroupSize": 20,
+    "difficulty": "easy",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a201e2f8fb814b56fa186"],
+    "price": 1197,
+    "summary": " Conquer the world's largest natural cave with ever-changing magnificent scenery and terrain.",
+    "description": "Son Doong Cave is the world's largest cave with a volume of 38.5 million cubic meters. Exploring Son Doong Cave is a journey into the depths of the earth to discover magnificent stalactite masterpieces, underground rivers, the Great Wall of Vietnam (a 90m high calcite wall), sinkholes, and even a fully-functioning subterranean jungle with unique flora and fauna. Visitors also have the opportunity to witness sunlight penetrating the cave and illuminating its vast chambers, adding to the awe-inspiring experience.",
+    "imageCover": "sondoong-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2960",
+        "description": "Dong Hoi Airport to Phong Nha",
+        "type": "Point",
+        "coordinates": [105.850715, 21.028524],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295f",
+        "description": "Ban Doong Cave - En Cave",
+        "type": "Point",
+        "coordinates": [105.850715, 21.028524],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295e",
+        "description": "Cave entrance - Hang En Campsite 1",
+        "type": "Point",
+        "coordinates": [105.850715, 21.028524],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2950",
+        "description": "Chay Lap Farmstay to Dong Hoi",
+        "type": "Point",
+        "coordinates": [105.850715, 21.028524],
+        "day": 4
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Ha Noi, VN",
+      "type": "Point",
+      "coordinates": [105.850715, 21.028524],
+      "address": "So 31 Hang Phen - Hoan Kiem - Ha Noi - VN"
+    },
+    "ratingsAverage": 3.9,
+    "ratingsQuantity": 7,
+    "images": ["sapa-1.jpg", "sapa-2.jpg", "sapa-3.jpg"],
+    "startDates": [
+      "2021-07-19T09:00:00.000Z",
+      "2021-09-06T09:00:00.000Z",
+      "2022-03-18T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2966",
+    "name": "Northwest travel",
+    "duration": 14,
+    "maxGroupSize": 8,
+    "difficulty": "difficult",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a1f292f8fb814b56fa184",
+      "5c8a1f4e2f8fb814b56fa185"
+    ],
+    "price": 2997,
+    "summary": "Explore the mountainous landscapes of the Northwest and conquer the rooftop of Indochina",
+    "description": "Nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nVoluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur!",
+    "imageCover": "sapa-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c296b",
+        "description": "Ha Noi - Hoa Binh - Moc Chau",
+        "type": "Point",
+        "coordinates": [105.850715, 21.028524],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296a",
+        "description": "Dien Bien - Lai Chau",
+        "type": "Point",
+        "coordinates": [105.850715, 21.028524],
+        "day": 4
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2969",
+        "description": "Lai Chau - Fansipan -  Sapa",
+        "type": "Point",
+        "coordinates": [105.850715, 21.028524],
+        "day": 7
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2968",
+        "description": "Sapa - Lao Cai - Ha Noi",
+        "type": "Point",
+        "coordinates": [105.850715, 21.028524],
+        "day": 10
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Utah, USA",
+      "type": "Point",
+      "coordinates": [-109.55099, 37.283469],
+      "address": "Bluff, UT 84512, USA"
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "images": ["tour-8-1.jpg", "tour-8-2.jpg", "tour-8-3.jpg"],
+    "startDates": [
+      "2021-03-23T10:00:00.000Z",
+      "2021-10-25T09:00:00.000Z",
+      "2022-01-30T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2970",
+    "name": "The Star Gazer",
+    "duration": 9,
+    "maxGroupSize": 8,
+    "difficulty": "medium",
+    "guides": ["5c8a21d02f8fb814b56fa189", "5c8a1f292f8fb814b56fa184"],
+    "price": 2997,
+    "summary": "The most remote and stunningly beautiful places for seeing the night sky",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "imageCover": "tour-8-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2973",
+        "description": "Natural Bridges National Monument",
+        "type": "Point",
+        "coordinates": [-109.99953, 37.629017],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2972",
+        "description": "Horseshoe Bend",
+        "type": "Point",
+        "coordinates": [-111.50954, 36.883269],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2971",
+        "description": "Death Valley National Park",
+        "type": "Point",
+        "coordinates": [-117.07399, 36.501435],
+        "day": 6
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Yellowknife, CAN",
+      "type": "Point",
+      "coordinates": [-114.406097, 62.439943],
+      "address": "Yellowknife, NT X1A 2L2, Canada"
+    },
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 7,
+    "images": ["tour-9-1.jpg", "tour-9-2.jpg", "tour-9-3.jpg"],
+    "startDates": [
+      "2021-12-16T10:00:00.000Z",
+      "2022-01-16T10:00:00.000Z",
+      "2022-12-12T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2974",
+    "name": "The Northern Lights",
+    "duration": 3,
+    "maxGroupSize": 12,
+    "difficulty": "easy",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a201e2f8fb814b56fa186",
+      "5c8a23412f8fb814b56fa18c"
+    ],
+    "price": 1497,
+    "summary": "Enjoy the Northern Lights in one of the best places in the world",
+    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!\nDolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit!",
+    "imageCover": "tour-9-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2975",
+        "description": "Yellowknife",
+        "type": "Point",
+        "coordinates": [-114.406097, 62.439943],
+        "day": 1
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "California, USA",
+      "type": "Point",
+      "coordinates": [-122.29286, 38.294065],
+      "address": "560 Jefferson St, Napa, CA 94559, USA"
+    },
+    "ratingsAverage": 4.4,
+    "ratingsQuantity": 7,
+    "images": ["tour-7-1.jpg", "tour-7-2.jpg", "tour-7-3.jpg"],
+    "startDates": [
+      "2021-02-12T10:00:00.000Z",
+      "2021-04-14T09:00:00.000Z",
+      "2021-09-01T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c296c",
+    "name": "The Wine Taster",
+    "duration": 5,
+    "maxGroupSize": 8,
+    "difficulty": "easy",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a23412f8fb814b56fa18c"],
+    "price": 1997,
+    "summary": "Exquisite wines, scenic views, exclusive barrel tastings,  and much more",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "imageCover": "tour-7-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c296f",
+        "description": "Beringer Vineyards",
+        "type": "Point",
+        "coordinates": [-122.479887, 38.510312],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296e",
+        "description": "Clos Pegase Winery & Tasting Room",
+        "type": "Point",
+        "coordinates": [-122.582948, 38.585707],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296d",
+        "description": "Raymond Vineyard and Cellar",
+        "type": "Point",
+        "coordinates": [-122.434697, 38.482181],
+        "day": 5
+      }
+    ]
+  }
+]
